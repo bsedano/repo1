@@ -1,3 +1,5 @@
 Exercícios Git remoto
 
 Edição do file.txt
+
+Edição pra merge de branch
